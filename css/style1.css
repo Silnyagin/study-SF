@@ -1,0 +1,79 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(246, 242, 242);
+}
+a:hover {
+    background: rgb(255, 63, 64);
+
+}
+.header {
+    margin: 0 auto;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    max-width: 1249px;
+    margin-top: 28px
+}
+.link li {
+    
+}
+.link a {
+    color: rgb(224, 224, 224);
+    font-family: OpenSans;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    margin: 15px 15px;
+   
+
+}
+.intro {
+    display: flex;
+   
+    background-color: rgb(246, 242, 242);
+}
+.intro_block {
+    
+    padding: 100px 0px;
+    margin: 0px 10px;
+}
+.intro_btn {
+}
+.intro h1 {
+    max-width: 618px;
+    font-family: OpenSans;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: 1.5px;
+    margin: 0px;
+    margin-bottom: 36px;
+}
+.intro p {
+    max-width: 500px;
+    font-family: OpenSans;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0px;
+    margin: 0px;
+    margin-bottom: 30px;
+}
+.picture {
+}
+.intro_block {
+    display: inline-block; 
+    background: rgb(255, 45, 45); 
+    color: rgb(224, 224, 224); 
+    padding: 5px 60px; 
+    text-decoration: none; 
+    font-family: OpenSans;
+    font-size: 18px;
+    line-height: 34px;
+    etter-spacing: 0.3px;
+
+}
